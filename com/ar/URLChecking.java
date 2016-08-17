@@ -16,7 +16,7 @@ import org.w3c.dom.NodeList;
 
 public class URLChecking {
 
-	// Tuckey's URL rewrite configuration
+    // Tuckey's URL rewrite configuration
     private static final String FILE_LOCATION = "urlrewrite.xml";
 
     public static void main(String[] args) {
@@ -75,39 +75,3 @@ public class URLChecking {
         }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
